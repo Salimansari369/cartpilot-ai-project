@@ -13,6 +13,16 @@ The UI is designed to faithfully match the provided CartPilot AI dashboard scree
 
 ---
 
+## 📸 Application Screenshots
+
+### 1. Electronics Mode — AI Headphone & Gadget Intelligence
+![CartPilot AI Electronics Dashboard](./assets/screenshots/cartpilot_dashboard_electronics.jpg)
+
+### 2. Fashion Mode — Cross-Store Style & Sneaker Intelligence
+![CartPilot AI Fashion Dashboard](./assets/screenshots/cartpilot_dashboard_fashion.jpg)
+
+---
+
 ## 🌟 Key Features
 
 ### 1. Natural Language Shopping Missions
